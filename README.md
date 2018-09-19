@@ -5,7 +5,7 @@ This project is a game that uses vocabulary words, it starts by asking you to pi
 
 Installation: 
 
-$ git clone http:
+$ git clone https://github.com/Yomairyp/weekend_project_game.git
 $ cd PROJECT
 $ npm install
 $ npm start (Starts the game on the terminal)
